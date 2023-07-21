@@ -13,7 +13,7 @@ let resposta;
 
 do {
     console.log("Bem vindo ao menu de exercicios!");
-    resposta = prompt("Digite um numero de 1 à 6, para escolher um exercicio : ");
+    resposta = prompt("Digite um numero de 1 à 10, para escolher um exercicio : ");
     switch (resposta) {
         case "1":
             //Chamar o exercicio 1
